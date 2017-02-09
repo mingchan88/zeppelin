@@ -11,8 +11,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Season 2017"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+email: "devcon@ethereum.org"
+description: "GDG Devcon is a set of events all around the world"
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
@@ -29,8 +29,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devcon, ethereum, programming, android, chrome, developers, lviv"
+twitterAccount: "@ethereumproject"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
